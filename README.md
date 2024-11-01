@@ -1,4 +1,5 @@
 Hi there, I'm Varang Pratap Singh! 👋
+
 🎓 B.Tech Student in Data Science & Artificial Intelligence
 📍 IIIT Dharwad | Class of 2026
 🧠 Interests: Fascinated by Computer Science, Data Analytics, and intersection of technology with medicine. 
